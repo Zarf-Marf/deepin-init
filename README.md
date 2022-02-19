@@ -4,7 +4,7 @@
 ## 使用方法
 
 ```
-wget https://raw.githubusercontent.com/kt286/deepin-init/master/deepin-init.sh
+wget https://raw.githubusercontent.com/kt286/Zarf-Marf/master/deepin-init.sh
 chmod +x deepin-init.sh
 sh deepin-init.sh
 ```
